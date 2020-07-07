@@ -171,3 +171,5 @@ jobs:
       platform: $(BuildPlatform)
       configuration: $(BuildConfiguration)
       maximumCpuCount: true
+      
+      
